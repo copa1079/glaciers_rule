@@ -1,3 +1,3 @@
-# geoscience-modeling
+# glaciers rule
 
-This repository contains only MATLAB (.m) csripts for the GEOL5700 class. Other PYTHON (.py) scripts can be found in my other repo: geoscience-modeling.py.
+This repository contains MATLAB (.m) scripts for glacier reconstructions of various kinds.
